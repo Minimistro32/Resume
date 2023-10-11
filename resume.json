@@ -3,6 +3,7 @@
   "basics": {
     "name": "Tyson Freeze",
     "label": "Application Developer",
+    "url": "https://minimistro32.github.io/resume/",
     "image": "https://avatars.githubusercontent.com/u/65469567?v=4",
     "email": "tyson.freeze@icloud.com",
     "phone": "(775) 997-8633",
@@ -30,7 +31,14 @@
       "startDate": "2021",
       "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "INTEGRATION"
+        "INTEGRATION",
+        "Retrofit EDI",
+        "OAuth1.0 Connection",
+        "SOAP and REST Web Services",
+        "SuiteQL",
+        "Customer Load",
+        "AR Sync",
+        "HR Sync"
       ]
     },
     {
@@ -40,9 +48,9 @@
       "position": "Database Administrator",
       "startDate": "2018",
       "endDate": "2019",
-      "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "Used Sequel and Crystal Reports...TODO",
       "highlights": [
-        "Utilized Sequel and Crystal Reports to fill analytic needs of executives and over 800 team members",
+        "Filled analytic needs of executives and over 800 team members",
         "Absorbed iOS Mobile App and ASP.NET Core development and best practices to fill the company need for “Proof of Delivery” software in 1.5 months",
         "Developed inventive in-house solutions to problems like signature capture, sales commission, and report redundancy"
       ]
@@ -72,7 +80,7 @@
       "studyType": "Bachelor",
       "startDate": "2021-09-13",
       "_endDate": "2024-07-25",
-      "_endDate": "Anticipated July 2024",
+      "__endDate": "Anticipated July 2024",
       "score": "4.0",
       "courses": [
         "CSE251 - Parallelism and Concurrency",
@@ -92,14 +100,14 @@
       "title": "Presidential Scholarship",
       "date": "2018",
       "awarder": "University of Reno, Nevada",
-      "summary": "A merit-based scholarship valued at $8,000 dollars annually. Eligibility is restricted to under 3% of the top ACT examinees."
+      "summary": "A merit-based scholarship valued at $8,000 dollars annually. Eligibility is restricted to under 3% of top ACT examinees."
     },
     {
       "title": "32 Composite Score",
       "date": "2017",
       "_date": "2017-02",
       "awarder": "The ACT",
-      "_summary": "Awarded the rank at fifteen and continued to earn three Eagle Palms"
+      "_summary": ""
     },
     {
       "title": "Eagle Scout",
@@ -132,7 +140,7 @@
     },
     {
       "name": "Electronic Data Interchange",
-      "_level": "2 Years",
+      "_level": "",
       "keywords": [
         "GoAnywhere MFT",
         "SOAP API's",
@@ -141,7 +149,7 @@
     },
     {
       "name": "Programming Languages",
-      "_level": "2 Years",
+      "_level": "",
       "keywords": [
         "C#",
         "Swift",
@@ -153,7 +161,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native Speaker"
+      "fluency": "Fluent"
     },
     {
       "language": "Swahili",
@@ -168,6 +176,16 @@
     {
       "name": "Erlich Bachman",
       "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "interests": [
+    {
+      "_name": "",
+      "keywords": [
+        "iOS App Development",
+        "Programming",
+        "Making a Difference"
+      ]
     }
   ],
   "projects": [
@@ -197,8 +215,8 @@
   ],
   "meta": {
     "_theme": "jsonresume-theme-kendall",
-    "__theme": "jsonresume-theme-short",
     "theme": "jsonresume-theme-macchiato",
+    "__theme": "jsonresume-theme-short",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
     "lastModified": "2023-10-11T01:40:00"
