@@ -1,0 +1,206 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Tyson Freeze",
+    "label": "Application Developer",
+    "image": "https://avatars.githubusercontent.com/u/65469567?v=4",
+    "email": "tyson.freeze@icloud.com",
+    "phone": "(775) 997-8633",
+    "summary": "Imagine me at eighteen working full-time, but with the head of sales. Batteries were selling well, but the commission system wasn't cutting it. The overhaul was on me, with the only question being when I'd finish it. Extra time was consumed by school, so overtime wasn't realistic.@CR@CRMy solution? Iterate. I got it done, plain and simple, with hard work done smart. And truthfully I never stopped iterating, which is what netted me three years work experience in C#, Swift, Javascript, and Python and a course on track to recieve my degree after four years.",
+    "location": {
+      "address": "333 West 6th St",
+      "postalCode": "83440",
+      "city": "Rexburg",
+      "countryCode": "US",
+      "region": "ID"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "Tyson Freeze",
+        "url": "https://www.linkedin.com/in/tyson-freeze/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Continental Battery Systems",
+      "description": "",
+      "position": "Application Developer",
+      "startDate": "2021",
+      "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "INTEGRATION"
+      ]
+    },
+    {
+      "name": "Battery Systems Inc.",
+      "location": "Reno, NV",
+      "description": "",
+      "position": "Database Administrator",
+      "startDate": "2018",
+      "endDate": "2019",
+      "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Utilized Sequel and Crystal Reports to fill analytic needs of executives and over 800 team members",
+        "Absorbed iOS Mobile App and ASP.NET Core development and best practices to fill the company need for “Proof of Delivery” software in 1.5 months",
+        "Developed inventive in-house solutions to problems like signature capture, sales commission, and report redundancy"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Church of Jesus Christ of Latter-Day Saints",
+      "position": "Religous Missionary",
+      "startDate": "2019-06",
+      "endDate": "2021-06",
+      "_url": "",
+      "summary": "Volunteered full-time in Iowa and surrounding areas, for two years, teaching interested people about Jesus Christ.",
+      "highlights": [
+        "Led out for 12 months piloting a new social media and advertising initiative",
+        "Navigated procedural and systemic changes caused by COVID-19, including a personnel increase to nearly 250, for 6 months in the mission office",
+        "Served in leadership positions for 18 months, frequently training and motivating others, enterprise wide and in small settings",
+        "Requested permission to self-study Swahili and spent my last 10.5 months studying and teaching with the language"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brigham Young University - Idaho",
+      "url": "http://byui.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2021-09-13",
+      "_endDate": "2024-07-25",
+      "_endDate": "Anticipated July 2024",
+      "score": "4.0",
+      "courses": [
+        "CSE251 - Parallelism and Concurrency",
+        "MATH 341 - Linear Algebra",
+        "CSE450 - Machine Learning"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "BYU-Idaho Grant",
+      "date": "2021",
+      "awarder": "Brigham Young University - Idaho",
+      "summary": "A full-tuition, merit-based scholarship awarded for maintaining a 4.0 cumulative GPA."
+    },
+    {
+      "title": "Presidential Scholarship",
+      "date": "2018",
+      "awarder": "University of Reno, Nevada",
+      "summary": "A merit-based scholarship valued at $8,000 dollars annually. Eligibility is restricted to under 3% of the top ACT examinees."
+    },
+    {
+      "title": "32 Composite Score",
+      "date": "2017",
+      "_date": "2017-02",
+      "awarder": "The ACT",
+      "_summary": "Awarded the rank at fifteen and continued to earn three Eagle Palms"
+    },
+    {
+      "title": "Eagle Scout",
+      "date": "2015",
+      "awarder": "Boy Scouts of America",
+      "summary": "Awarded the rank at fifteen and continued to earn three Eagle Palms"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Enterprise Resource Planning",
+      "_level": "Skilled",
+      "keywords": [
+        "NetSuite",
+        "Prophet 21",
+        "NetSuite Web Services"
+      ]
+    },
+    {
+      "name": "Data Analytics",
+      "_level": "Adept",
+      "keywords": [
+        "MS SQL Server",
+        "SuiteQL",
+        "Crystal Reports 2016",
+        "PySpark",
+        "Polars",
+        "rePortal"
+      ]
+    },
+    {
+      "name": "Electronic Data Interchange",
+      "_level": "2 Years",
+      "keywords": [
+        "GoAnywhere MFT",
+        "SOAP API's",
+        "REST API's"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "_level": "2 Years",
+      "keywords": [
+        "C#",
+        "Swift",
+        "Python",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Swahili",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Novice"
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "https://missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "_theme": "jsonresume-theme-kendall",
+    "__theme": "jsonresume-theme-short",
+    "theme": "jsonresume-theme-macchiato",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2023-10-11T01:40:00"
+  }
+}
