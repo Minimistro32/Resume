@@ -29,16 +29,14 @@
       "description": "",
       "position": "Application Developer",
       "startDate": "2021",
-      "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "summary": "Pioneered an integration bridge between NetSuite and Prophet 21 as part of a company merger",
       "highlights": [
-        "INTEGRATION",
-        "Retrofit EDI",
-        "OAuth1.0 Connection",
-        "SOAP and REST Web Services",
-        "SuiteQL",
-        "Customer Load",
-        "AR Sync",
-        "HR Sync"
+        "Developed a custom cloud connector with SOAP and REST Web Services to seamlessly retrofit 50+ existing EDI customers for NetSuite",
+        "Learned and introduced the NetSuite's 'SuiteQL' tool to the development team",
+        "Orchestrated and multi-threaded an import of 119,906 customers",
+        "Automatically syncronized 416,355 invoices between systems",
+        "Codeveloped an intercompany inventory move tool that processed 76,527 adjustments",
+        "Absorbed iOS Mobile App and ASP.NET Core development and best practices to fill the company need for “Proof of Delivery” software in 1.5 months"
       ]
     },
     {
@@ -48,11 +46,10 @@
       "position": "Database Administrator",
       "startDate": "2018",
       "endDate": "2019",
-      "summary": "Used Sequel and Crystal Reports...TODO",
+      "summary": "Used Sequel, Crystal Reports, and rePortal to make data more accessible to users",
       "highlights": [
         "Filled analytic needs of executives and over 800 team members",
-        "Absorbed iOS Mobile App and ASP.NET Core development and best practices to fill the company need for “Proof of Delivery” software in 1.5 months",
-        "Developed inventive in-house solutions to problems like signature capture, sales commission, and report redundancy"
+        "Developed inventive in-house solutions to problems like pricing lookups, sales commission, and report redundancy"
       ]
     }
   ],
@@ -158,26 +155,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Swahili",
-      "fluency": "Conversational"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Novice"
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
   "interests": [
     {
       "_name": "",
@@ -188,31 +165,7 @@
       ]
     }
   ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "https://missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
+  
   "meta": {
     "_theme": "jsonresume-theme-kendall",
     "theme": "jsonresume-theme-macchiato",
