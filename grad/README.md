@@ -16,7 +16,7 @@
 |-|-|-|-|-|-|-|-|
 |1.|❌| Three Letters of Recommendation |✔️|✔️|?|[✔️](https://www.boisestate.edu/graduatecollege/adding-recommendation-providers-to-your-application-instructions/)||
 |2.|❌| Reach Out to Faculty | | | | ||
-|3.|❌| GRE |Average Composite 319.5|158-150-3.5|Faculty Letter or 60% - 40% - 3.0|—||
+|3.|❌| GRE | 319.5 / 80% |158-150-3.5|Faculty Letter or 60% - 40% - 3.0|—||
 |4.|❌| Letter of Intent / Research Focus|✔️|✔️|✔️|✔️||
 |5.|❌| Ecclesiastical Endorsement |[✔️](http://honorcodecommit.byu.edu/)|—|—|—||
 |6.|✅| Resume |✔️|✔️|?|✔️||
