@@ -143,8 +143,33 @@ https://gradstudies.byu.edu/admissions/costs-financial-aid
   * Human-Computer Interaction and Software Development
 * [ECE](https://ece.byu.edu/research)
   * [Physical Technology & Science](https://ece.byu.edu/Research/physical-technology-and-science)
+    * [Micropower Circuits Laboratory](https://microcl.groups.et.byu.net)
+      * high-performance, low-power designs for RF/analog/mixed-signal integrated circuits
+    * [CamachoLab](https://camacholab.byu.edu/research)
+      * Photonics
+      * Quantum Photonics
+    * Electro-Holography - Smalley
+    * More...
   * [Information Systems & Science](https://ece.byu.edu/Research/information-systems-and-science)
+    * [Ice Lab](https://icelab.byu.edu/home) - Willie Harrison, Michael Rice
+      * Vehicle-to-Everything (V2X)
+      * Physical Layer Security
+    * [FRoST Lab](https://frostlab.byu.edu)
+      * (Marine) Robotics
+    * [MAGICC Lab](https://magicc.byu.edu/content/general-information)
+      * UAV's
+      * Target Tracking
+      * Navigation (Indoor / GPS Denied)
+    * Scatterometer Climate Record Pathfinder
+    * Robotic Vision Lab
   * [Hardware/Software Systems](https://ece.byu.edu/Research/hardware-software-systems)
+    * [Net Lab](https://netlab.byu.edu) - Phil Lundrigan
+      * IoT
+      * Vehicle-to-Vehicle Communication
+      * Software-Based Wireless Sub-Protocols
+    * [Configurable Computing Lab](https://ccl.byu.edu) - Jeff Goeders, Mike Wirthlin, Brent Nelson, Brad Hutchings
+      * FPGA
+      * Underwater Networking
 
 
 
