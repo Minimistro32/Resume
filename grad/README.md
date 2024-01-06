@@ -14,11 +14,11 @@
 ## Application Checklist
 || | Item | [BYU](https://gradstudies.byu.edu/application-instructions) | [U](https://www.ece.utah.edu/grad-admissions/) | [ISU](https://www.isu.edu/graduate/student-resources/future-students/) | [BSU](https://www.boisestate.edu/graduatecollege/what-to-expect-when-you-apply/) | [MIT](https://oge.mit.edu/graduate-admissions/prospective-student-resources/) |
 |-|-|-|-|-|-|-|-|
-|1.|❌| Three Letters of Recommendation |✔️|✔️|?|[✔️](https://www.boisestate.edu/graduatecollege/adding-recommendation-providers-to-your-application-instructions/)||
+|1.|✅| Three Letters of Recommendation |✔️|✔️|?|[✔️](https://www.boisestate.edu/graduatecollege/adding-recommendation-providers-to-your-application-instructions/)||
 |2.|❌| Reach Out to Faculty | | | | ||
-|3.|❌| GRE | 319.5 / 80% |158-150-3.5|Faculty Letter or 60% - 40% - 3.0|—||
+|3.|✅| GRE | 319.5 / 80% |158-150-3.5|Faculty Letter or 60% - 40% - 3.0|—||
 |4.|❌| Letter of Intent / Research Focus|✔️|✔️|✔️|✔️||
-|5.|❌| Ecclesiastical Endorsement |[✔️](http://honorcodecommit.byu.edu/)|—|—|—||
+|5.|✅| Ecclesiastical Endorsement |[✔️](http://honorcodecommit.byu.edu/)|—|—|—||
 |6.|✅| Resume |✔️|✔️|?|✔️||
 |7.|✅| GPA |3.4|3.5|3.0|3.0||
 |8.|✅| B.S. Transcripts |✔️|✔️|✔️|[✔️](https://www.boisestate.edu/graduatecollege/howtoapply/submit-official-transcripts/#)||
