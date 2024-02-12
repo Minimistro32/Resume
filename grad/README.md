@@ -19,6 +19,7 @@
 |Hardware Engineer|$132,360|||[Video](https://www.youtube.com/watch?v=l09D6OycD4o&list=PL5AAyLKIyw_qgE_rOW5vG_h30orCmgP2L&index=5), [bls.gov](https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm)|
 |Systems Engineer|$112,000|||[Video](https://www.youtube.com/watch?v=pSfZutP9H-U), [bls.gov](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm)|
 |Mobile App Developer|$100,000||||
+|Application Developer|$89,000||||
 
 ## Application Checklist
 || | Item | [BYU](https://gradstudies.byu.edu/application-instructions) | [U](https://www.ece.utah.edu/grad-admissions/) | [ISU](https://www.isu.edu/graduate/student-resources/future-students/) | [BSU](https://www.boisestate.edu/graduatecollege/what-to-expect-when-you-apply/) | [MIT](https://oge.mit.edu/graduate-admissions/prospective-student-resources/) |
