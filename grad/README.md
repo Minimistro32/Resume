@@ -10,6 +10,7 @@
   * Signal Processing
 * Which **schools** should I apply to?
 * Where do I attend?
+* What do I want as a [career](https://chat.openai.com/share/5efd5392-417d-4e07-9de0-83827cec66ea)?
 
 ## Application Checklist
 || | Item | [BYU](https://gradstudies.byu.edu/application-instructions) | [U](https://www.ece.utah.edu/grad-admissions/) | [ISU](https://www.isu.edu/graduate/student-resources/future-students/) | [BSU](https://www.boisestate.edu/graduatecollege/what-to-expect-when-you-apply/) | [MIT](https://oge.mit.edu/graduate-admissions/prospective-student-resources/) |
